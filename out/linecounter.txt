@@ -1,0 +1,111 @@
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2023-11-03 11:55:37
+count workspace : c:\Users\kevin\IdleTower
+total files : 89
+total code lines : 1409
+total comment lines : 282
+total blank lines : 252
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |          .java|            702|            124|            142|     50|
+   |            .md|             10|              1|              8|   0.71|
+   |           .txt|            192|              4|             34|     14|
+   |           .URL|             12|              2|              0|   0.85|
+   |               |             25|              8|              0|    1.8|
+   |        .sample|            468|            143|             68|     33|
+   -------------------------------------------------------------------------
+.git\config, code is 10, comment is 5, blank is 0.
+.git\description, code is 1, comment is 0, blank is 0.
+.git\HEAD, code is 1, comment is 0, blank is 0.
+.git\hooks\applypatch-msg.sample, code is 14, comment is 0, blank is 1.
+.git\hooks\commit-msg.sample, code is 20, comment is 0, blank is 3.
+.git\hooks\fsmonitor-watchman.sample, code is 93, comment is 2, blank is 23.
+.git\hooks\post-update.sample, code is 7, comment is 0, blank is 1.
+.git\hooks\pre-applypatch.sample, code is 13, comment is 0, blank is 1.
+.git\hooks\pre-commit.sample, code is 39, comment is 0, blank is 9.
+.git\hooks\pre-merge-commit.sample, code is 12, comment is 0, blank is 1.
+.git\hooks\pre-push.sample, code is 46, comment is 0, blank is 6.
+.git\hooks\pre-rebase.sample, code is 27, comment is 141, blank is 2.
+.git\hooks\pre-receive.sample, code is 23, comment is 0, blank is 1.
+.git\hooks\prepare-commit-msg.sample, code is 18, comment is 0, blank is 1.
+.git\hooks\push-to-checkout.sample, code is 38, comment is 0, blank is 4.
+.git\hooks\sendemail-validate.sample, code is 68, comment is 0, blank is 9.
+.git\hooks\update.sample, code is 50, comment is 0, blank is 6.
+.git\index, it is a binary file.
+.git\info\exclude, code is 6, comment is 0, blank is 0.
+.git\logs\HEAD, code is 1, comment is 1, blank is 0.
+.git\logs\refs\heads\main, code is 1, comment is 1, blank is 0.
+.git\logs\refs\remotes\origin\HEAD, code is 1, comment is 1, blank is 0.
+.git\objects\pack\pack-ce7cac07b84a72750648a9af9003a19e643d751c.idx, it is a binary file.
+.git\objects\pack\pack-ce7cac07b84a72750648a9af9003a19e643d751c.pack, it is a binary file.
+.git\objects\pack\pack-ce7cac07b84a72750648a9af9003a19e643d751c.rev, it is a binary file.
+.git\packed-refs, code is 2, comment is 0, blank is 0.
+.git\refs\heads\main, code is 1, comment is 0, blank is 0.
+.git\refs\remotes\origin\HEAD, code is 1, comment is 0, blank is 0.
+assets\enemy\enemy.png, it is a binary file.
+assets\fonts\Blazma_Font_1_00.zip, it is a binary file.
+assets\fonts\GGBotNet Fonts.URL, code is 6, comment is 1, blank is 0.
+assets\fonts\License.txt, code is 75, comment is 2, blank is 17.
+assets\fonts\OpenType\Blazma-Italic.otf, it is a binary file.
+assets\fonts\OpenType\Blazma-Regular.otf, it is a binary file.
+assets\fonts\TrueType\Blazma-Italic.ttf, it is a binary file.
+assets\fonts\TrueType\Blazma-Regular.ttf, it is a binary file.
+assets\fonts\Web Open Font Format (.woff)\Blazma-Italic.woff, it is a binary file.
+assets\fonts\Web Open Font Format (.woff)\Blazma-Italic.woff2, it is a binary file.
+assets\fonts\Web Open Font Format (.woff)\Blazma-Regular.woff, it is a binary file.
+assets\fonts\Web Open Font Format (.woff)\Blazma-Regular.woff2, it is a binary file.
+assets\maps\map01.txt, code is 21, comment is 0, blank is 0.
+assets\music\gameloop\game-over-171562.mp3, it is a binary file.
+assets\music\gameloop\stranger-things.wav, it is a binary file.
+assets\music\soundEffects\dead.wav, it is a binary file.
+assets\music\soundEffects\enemyAttack.wav, it is a binary file.
+assets\music\soundEffects\hit.wav, it is a binary file.
+assets\music\soundEffects\kl-peach-game-over-ii-135684.mp3, it is a binary file.
+assets\player\character.png, it is a binary file.
+assets\tiles\tile1.png, it is a binary file.
+bin\enemy\enemy.png, it is a binary file.
+bin\entity\Bullet.class, it is a binary file.
+bin\entity\Enemy.class, it is a binary file.
+bin\entity\Entity.class, it is a binary file.
+bin\entity\Player.class, it is a binary file.
+bin\fonts\Blazma_Font_1_00.zip, it is a binary file.
+bin\fonts\GGBotNet Fonts.URL, code is 6, comment is 1, blank is 0.
+bin\fonts\License.txt, code is 75, comment is 2, blank is 17.
+bin\fonts\OpenType\Blazma-Italic.otf, it is a binary file.
+bin\fonts\OpenType\Blazma-Regular.otf, it is a binary file.
+bin\fonts\TrueType\Blazma-Italic.ttf, it is a binary file.
+bin\fonts\TrueType\Blazma-Regular.ttf, it is a binary file.
+bin\fonts\Web Open Font Format (.woff)\Blazma-Italic.woff, it is a binary file.
+bin\fonts\Web Open Font Format (.woff)\Blazma-Italic.woff2, it is a binary file.
+bin\fonts\Web Open Font Format (.woff)\Blazma-Regular.woff, it is a binary file.
+bin\fonts\Web Open Font Format (.woff)\Blazma-Regular.woff2, it is a binary file.
+bin\main\GamePanel.class, it is a binary file.
+bin\main\Main.class, it is a binary file.
+bin\main\MusicController.class, it is a binary file.
+bin\maps\map01.txt, code is 21, comment is 0, blank is 0.
+bin\music\gameloop\game-over-171562.mp3, it is a binary file.
+bin\music\gameloop\stranger-things.wav, it is a binary file.
+bin\music\soundEffects\dead.wav, it is a binary file.
+bin\music\soundEffects\enemyAttack.wav, it is a binary file.
+bin\music\soundEffects\hit.wav, it is a binary file.
+bin\music\soundEffects\kl-peach-game-over-ii-135684.mp3, it is a binary file.
+bin\player\character.png, it is a binary file.
+bin\tiles\Tile.class, it is a binary file.
+bin\tiles\tile1.png, it is a binary file.
+bin\tiles\TileManager.class, it is a binary file.
+README.md, code is 10, comment is 1, blank is 8.
+src\entity\Bullet.java, code is 76, comment is 2, blank is 15.
+src\entity\Enemy.java, code is 112, comment is 10, blank is 19.
+src\entity\Entity.java, code is 43, comment is 2, blank is 18.
+src\entity\Player.java, code is 129, comment is 7, blank is 21.
+src\main\GamePanel.java, code is 206, comment is 94, blank is 39.
+src\main\Main.java, code is 15, comment is 5, blank is 5.
+src\main\MusicController.java, code is 44, comment is 4, blank is 7.
+src\tiles\Tile.java, code is 6, comment is 0, blank is 2.
+src\tiles\TileManager.java, code is 71, comment is 0, blank is 16.
+===============================================================================

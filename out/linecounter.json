@@ -1,0 +1,632 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "c:\\Users\\kevin\\IdleTower",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2023-11-03 11:55:37",
+            "filesum": 89,
+            "codesum": 1409,
+            "commentsum": 282,
+            "blanksum": 252,
+            "statistics": {
+                ".java": {
+                    "code": 702,
+                    "comment": 124,
+                    "blank": 142
+                },
+                ".md": {
+                    "code": 10,
+                    "comment": 1,
+                    "blank": 8
+                },
+                ".txt": {
+                    "code": 192,
+                    "comment": 4,
+                    "blank": 34
+                },
+                ".URL": {
+                    "code": 12,
+                    "comment": 2,
+                    "blank": 0
+                },
+                "": {
+                    "code": 25,
+                    "comment": 8,
+                    "blank": 0
+                },
+                ".sample": {
+                    "code": 468,
+                    "comment": 143,
+                    "blank": 68
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 5,
+                    "filename": ".git\\config"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".git\\description"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".git\\HEAD"
+                },
+                {
+                    "blank": 1,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": ".git\\hooks\\applypatch-msg.sample"
+                },
+                {
+                    "blank": 3,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": ".git\\hooks\\commit-msg.sample"
+                },
+                {
+                    "blank": 23,
+                    "code": 93,
+                    "comment": 2,
+                    "filename": ".git\\hooks\\fsmonitor-watchman.sample"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": ".git\\hooks\\post-update.sample"
+                },
+                {
+                    "blank": 1,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": ".git\\hooks\\pre-applypatch.sample"
+                },
+                {
+                    "blank": 9,
+                    "code": 39,
+                    "comment": 0,
+                    "filename": ".git\\hooks\\pre-commit.sample"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": ".git\\hooks\\pre-merge-commit.sample"
+                },
+                {
+                    "blank": 6,
+                    "code": 46,
+                    "comment": 0,
+                    "filename": ".git\\hooks\\pre-push.sample"
+                },
+                {
+                    "blank": 2,
+                    "code": 27,
+                    "comment": 141,
+                    "filename": ".git\\hooks\\pre-rebase.sample"
+                },
+                {
+                    "blank": 1,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": ".git\\hooks\\pre-receive.sample"
+                },
+                {
+                    "blank": 1,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": ".git\\hooks\\prepare-commit-msg.sample"
+                },
+                {
+                    "blank": 4,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": ".git\\hooks\\push-to-checkout.sample"
+                },
+                {
+                    "blank": 9,
+                    "code": 68,
+                    "comment": 0,
+                    "filename": ".git\\hooks\\sendemail-validate.sample"
+                },
+                {
+                    "blank": 6,
+                    "code": 50,
+                    "comment": 0,
+                    "filename": ".git\\hooks\\update.sample"
+                },
+                {
+                    "filename": ".git\\index",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": ".git\\info\\exclude"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": ".git\\logs\\HEAD"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": ".git\\logs\\refs\\heads\\main"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": ".git\\logs\\refs\\remotes\\origin\\HEAD"
+                },
+                {
+                    "filename": ".git\\objects\\pack\\pack-ce7cac07b84a72750648a9af9003a19e643d751c.idx",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": ".git\\objects\\pack\\pack-ce7cac07b84a72750648a9af9003a19e643d751c.pack",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": ".git\\objects\\pack\\pack-ce7cac07b84a72750648a9af9003a19e643d751c.rev",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".git\\packed-refs"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".git\\refs\\heads\\main"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".git\\refs\\remotes\\origin\\HEAD"
+                },
+                {
+                    "filename": "assets\\enemy\\enemy.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\fonts\\Blazma_Font_1_00.zip",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 1,
+                    "filename": "assets\\fonts\\GGBotNet Fonts.URL"
+                },
+                {
+                    "blank": 17,
+                    "code": 75,
+                    "comment": 2,
+                    "filename": "assets\\fonts\\License.txt"
+                },
+                {
+                    "filename": "assets\\fonts\\OpenType\\Blazma-Italic.otf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\fonts\\OpenType\\Blazma-Regular.otf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\fonts\\TrueType\\Blazma-Italic.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\fonts\\TrueType\\Blazma-Regular.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\fonts\\Web Open Font Format (.woff)\\Blazma-Italic.woff",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\fonts\\Web Open Font Format (.woff)\\Blazma-Italic.woff2",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\fonts\\Web Open Font Format (.woff)\\Blazma-Regular.woff",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\fonts\\Web Open Font Format (.woff)\\Blazma-Regular.woff2",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "assets\\maps\\map01.txt"
+                },
+                {
+                    "filename": "assets\\music\\gameloop\\game-over-171562.mp3",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\music\\gameloop\\stranger-things.wav",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\music\\soundEffects\\dead.wav",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\music\\soundEffects\\enemyAttack.wav",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\music\\soundEffects\\hit.wav",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\music\\soundEffects\\kl-peach-game-over-ii-135684.mp3",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\player\\character.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\tiles\\tile1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "bin\\enemy\\enemy.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "bin\\entity\\Bullet.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "bin\\entity\\Enemy.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "bin\\entity\\Entity.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "bin\\entity\\Player.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "bin\\fonts\\Blazma_Font_1_00.zip",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 1,
+                    "filename": "bin\\fonts\\GGBotNet Fonts.URL"
+                },
+                {
+                    "blank": 17,
+                    "code": 75,
+                    "comment": 2,
+                    "filename": "bin\\fonts\\License.txt"
+                },
+                {
+                    "filename": "bin\\fonts\\OpenType\\Blazma-Italic.otf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "bin\\fonts\\OpenType\\Blazma-Regular.otf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "bin\\fonts\\TrueType\\Blazma-Italic.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "bin\\fonts\\TrueType\\Blazma-Regular.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "bin\\fonts\\Web Open Font Format (.woff)\\Blazma-Italic.woff",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "bin\\fonts\\Web Open Font Format (.woff)\\Blazma-Italic.woff2",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "bin\\fonts\\Web Open Font Format (.woff)\\Blazma-Regular.woff",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "bin\\fonts\\Web Open Font Format (.woff)\\Blazma-Regular.woff2",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "bin\\main\\GamePanel.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "bin\\main\\Main.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "bin\\main\\MusicController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "bin\\maps\\map01.txt"
+                },
+                {
+                    "filename": "bin\\music\\gameloop\\game-over-171562.mp3",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "bin\\music\\gameloop\\stranger-things.wav",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "bin\\music\\soundEffects\\dead.wav",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "bin\\music\\soundEffects\\enemyAttack.wav",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "bin\\music\\soundEffects\\hit.wav",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "bin\\music\\soundEffects\\kl-peach-game-over-ii-135684.mp3",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "bin\\player\\character.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "bin\\tiles\\Tile.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "bin\\tiles\\tile1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "bin\\tiles\\TileManager.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 8,
+                    "code": 10,
+                    "comment": 1,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 15,
+                    "code": 76,
+                    "comment": 2,
+                    "filename": "src\\entity\\Bullet.java"
+                },
+                {
+                    "blank": 19,
+                    "code": 112,
+                    "comment": 10,
+                    "filename": "src\\entity\\Enemy.java"
+                },
+                {
+                    "blank": 18,
+                    "code": 43,
+                    "comment": 2,
+                    "filename": "src\\entity\\Entity.java"
+                },
+                {
+                    "blank": 21,
+                    "code": 129,
+                    "comment": 7,
+                    "filename": "src\\entity\\Player.java"
+                },
+                {
+                    "blank": 39,
+                    "code": 206,
+                    "comment": 94,
+                    "filename": "src\\main\\GamePanel.java"
+                },
+                {
+                    "blank": 5,
+                    "code": 15,
+                    "comment": 5,
+                    "filename": "src\\main\\Main.java"
+                },
+                {
+                    "blank": 7,
+                    "code": 44,
+                    "comment": 4,
+                    "filename": "src\\main\\MusicController.java"
+                },
+                {
+                    "blank": 2,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "src\\tiles\\Tile.java"
+                },
+                {
+                    "blank": 16,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "src\\tiles\\TileManager.java"
+                }
+            ]
+        }
+    ]
+}
